@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to works's documentation!
+Welcome to works of renj.io!
 =================================
 
 .. toctree::
@@ -11,14 +11,17 @@ Welcome to works's documentation!
 
    hello
 
+什么是renj.io
+==================
 .. toctree::
-   :caption: 什么是renj.io
+   :maxdepth: 2
 
    renj.io
 
+项目
+==================
 .. toctree::
    :maxdepth: 1
-   :caption: 项目
 
    blog
    blog in docker <blog_docker>
@@ -31,6 +34,7 @@ Welcome to works's documentation!
    Bohr <bohr>
    Brook <brook>
    Dirichlet <dirichlet>
+   Mgek APP <mgek>
    MgekImgHost <mgek_imghost>
    MgekImgBed <mgek_imgbed>
    Pan <pan>
